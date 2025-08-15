@@ -1,5 +1,4 @@
-# 💫 About Me:
-- 🔭 I’m currently working on**IoT-based Early Seizure Detection System**  <br>- 🤝 I’m looking to collaborate on **Generative AI and RAG-based projects**  <br>- 🫱 I’m looking for help with **deploying scalable AI systems on cloud platforms**  <br>- 🌱 I’m currently learning **Automation with CrewAI & Advanced Vector Database Optimization**  <br>- 💬 Ask me about **RAG Pipelines, Vision Transformers, Vector Databases, Multi-Agent Systems**  <br><br>
+
 
 
 ## 🌐 Socials:
